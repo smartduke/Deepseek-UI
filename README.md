@@ -126,13 +126,25 @@ Dark Mode
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
+## Development & Support
+
+### 📫 Get in Touch
+- 🌐 Website: [www.smartduke.com](https://www.smartduke.com)
+- ✉️ Email: dinakar@smartduke.com
+
+### 🔗 Social Media
+- LinkedIn: [@smartduke-technologies](https://www.linkedin.com/company/smartduke-technologies)
+- Instagram: [@smartduke_technologies](https://www.instagram.com/smartduke_technologies)
+- GitHub: [Smart Duke GitHub](https://github.com/smartduke)
+
+### Support
+For technical support or inquiries, please reach out through:
+- Opening an issue in the GitHub repository
+- Emailing at dinakar@smartduke.com
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository.
 
 ## Acknowledgments
 
