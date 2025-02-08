@@ -1,6 +1,8 @@
-# Laravel Deepseek Chat
+# Deepseek UI - Laravel Chat Interface
 
 A modern chat application built with Laravel, integrating Deepseek AI for intelligent conversations. Features include authentication, dark mode, and real-time messaging.
+
+![screenshot-127_0_0_1_8000-2025_02_08-11_03_52](https://github.com/user-attachments/assets/cb4957bc-2e3a-4602-adf5-7ef28cdecc3d)
 
 ## Features
 
@@ -106,6 +108,15 @@ The application will be available at `http://localhost:8000`
 - Real-time message updates
 - Loading states and animations
 - Error handling and notifications
+
+### Screenshots
+
+Light Mode
+![light](https://github.com/user-attachments/assets/c78db8ef-ffd1-485e-bb65-0424f7c95f09)
+
+Dark Mode
+![dark](https://github.com/user-attachments/assets/4906e619-52e9-4c74-bec1-dd84f17250be)
+
 
 ## Contributing
 
