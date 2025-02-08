@@ -25,7 +25,7 @@ A modern chat application built with Laravel, integrating Deepseek AI for intell
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/smartduke/Deepseek-UI-Laravel-Chat-Interface.git
 cd YOUR_REPOSITORY_NAME
 ```
 
